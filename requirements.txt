@@ -1,0 +1,17 @@
+1) Python 2.7
+    --- selenium 3.141
+    --- pandas 0.24
+
+2) chromedriver 2.36.540471
+
+
+Zolo --
+  first crawl the links_crawler
+        -- python links_crawler.py city_name
+        >>>It takes all the links of the hostels in that city
+  2) call the web_crawler
+        -- python
+
+
+
+chcp 65001 & set PYTHONIOENCODING=utf-8
